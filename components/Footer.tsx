@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-white font-serif font-bold mb-6">Information</h3>
             <ul className="space-y-4 text-sm">
-              <li><a href="#" className="hover:text-rose-400 transition-colors">+12312321312</a></li>
+              <li><a href="#" className="hover:text-rose-400 transition-colors">+1 (262) 294-6279</a></li>
               <li>
                 <address>
                   7176 W APPLETON AVE, MILWAUKEE, WI, 53216
